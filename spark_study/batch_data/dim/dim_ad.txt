@@ -1,0 +1,11 @@
+adid,medium,campaign
+7,meduim_2,campain_88
+3,meduim_1,campain_77
+8,meduim_2,campain_87
+0,meduim_3,campain_89
+5,meduim_5,campain_74
+6,meduim_4,campain_80
+9,meduim_5,campain_79
+1,meduim_4,campain_80
+4,meduim_2,campain_85
+2,meduim_5,campain_69
